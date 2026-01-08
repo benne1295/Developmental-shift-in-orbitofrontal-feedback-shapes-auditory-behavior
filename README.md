@@ -62,7 +62,9 @@ tqdm (optional)
 opencv-python (optional, for image inspection)
 
 Before running Python scripts, install dependencies (example):
-````pip install matplotlib numpy scipy tqdm opencv-python````
+````
+pip install matplotlib numpy scipy tqdm opencv-python
+````
 
 Analysis Workflow
 
